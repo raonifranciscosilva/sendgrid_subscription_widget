@@ -13,5 +13,5 @@ exports.listId = 5820520;
 exports.templateId = null;
 
 // receive an email when a new signup is confirmed
-exports.sendNotification = true;
+exports.sendNotification = false;
 exports.notificationEmail = "comercial@niigo.com.br";
